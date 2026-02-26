@@ -1,6 +1,6 @@
 def main():
     while True:
-        print("選択してください：")
+        print("iie：")
         print("1: daifuku")
         print("2: りゅう")
         print("3: akimo")
