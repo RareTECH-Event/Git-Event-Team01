@@ -4,7 +4,7 @@ def main():
         print("1: 佐藤")
         print("2: りゅう")
         print("3: 選択肢3")
-        print("q: 終了")
+        print("q: MOMO")
 
         choice = input("> ")
 
@@ -15,7 +15,7 @@ def main():
         elif choice == "3":
             print("選択肢3が選ばれました。")
         elif choice == "q":
-            print("プログラムを終了します。")
+            print("プログラムをMOMOします。")
             break
         else:
             print("無効な入力です。もう一度選択してください。")
