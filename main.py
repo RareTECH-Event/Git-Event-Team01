@@ -2,7 +2,7 @@ def main():
     while True:
         print("選択してください：")
         print("1: ぶくろ")
-        print("2: 選択肢2")
+        print("2: さえちゃ")
         print("3: 白井")
         print("q: 終了")
 
