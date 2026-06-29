@@ -13,7 +13,7 @@ def main():
         elif choice == "2":
             print("mojamiが選ばれました。")
         elif choice == "3":
-            print("選択肢3が選ばれました。")
+            print("mojaが選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
