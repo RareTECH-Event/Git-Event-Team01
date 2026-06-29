@@ -4,7 +4,7 @@ def main():
         print("1: 白井")
         print("2: mojami")
         print("3: 選択肢3")
-        print("q: 終了")
+        print("q: 続ける")
 
         choice = input("> ")
 
