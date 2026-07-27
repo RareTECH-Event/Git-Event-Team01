@@ -2,7 +2,7 @@ def main():
     while True:
         print("選択してください：")
         print("1: kagaken")
-        print("2: 選択肢2")
+        print("2: hide")
         print("3: 選択肢3")
         print("4: 佐藤です！")
         print("q: 終了")
@@ -12,7 +12,7 @@ def main():
         if choice == "1":
             print("kagakenが選ばれました。")
         elif choice == "2":
-            print("選択肢2が選ばれました。")
+            print("hideが選ばれました。")
         elif choice == "3":
             print("選択肢3が選ばれました。")
         elif choice == "4":
